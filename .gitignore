@@ -2,3 +2,4 @@ Lib/
 Scripts/
 share/
 Include/
+deeplabv3_xception65_ade20k.h5
